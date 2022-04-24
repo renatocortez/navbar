@@ -1,2 +1,2 @@
 # navbar
- Projeto: Navbar com menu animado e responsivo, com Html, Css e JavaScript puro(Vanilla).
+ Project: Navbar with animated and responsive menu, with Html, Css and pure JavaScript (Vanilla).
